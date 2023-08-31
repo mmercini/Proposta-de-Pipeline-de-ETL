@@ -16,7 +16,7 @@
     2.6 Acrescentar uma coluna de índice de preços, fixando o valor presente em 1.
     2.7 Acrescentat uma coluna de índice de deflacionamento, a partir da coluna de índice de preços.
 
-## 3. - Load
+## 3. Load
     Exportar o DataFrame da maneira que preferir. (Ex: Excel)
 
 
