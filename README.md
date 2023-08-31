@@ -1,7 +1,8 @@
 # Proposta de Pipeline de ETL para o Bootcamp da Santander 
 
     O objetivo inicial desse projeto é desenvolver um processo de ETL para aplicar os conhecimentos desenvolvidos nos módulos
-    iniciais. Porem, esse repositório também cumprirá o papel de construir um índice de deflacionamento mensal ao longo dos anos, para a correção de valores com base no IPCA.
+    iniciais. Porem, esse repositório também cumprirá o papel de construir um índice de deflacionamento mensal ao longo dos anos,
+    para a correção de valores com base no IPCA.
 
 ## 1. Extract
     Extrair os dados mensais de IPCA por meio da API do IBGE
